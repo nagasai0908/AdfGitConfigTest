@@ -1,0 +1,9 @@
+{
+	"name": "knsgithubadf",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b397f7a6-f7c0-44dd-9638-8d065bf1abe0",
+		"tenantId": "db2cbe34-785e-4df0-ac02-e932f478b4bd"
+	}
+}
